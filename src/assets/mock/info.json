@@ -1,0 +1,37 @@
+{
+  "ragioneSociale": "Parrocchia Sant'Antonio di Padova",
+  "nomeCommerciale": "Parrocchia Sant'Antonio — Lecce",
+  "tagline": "Comunità cristiana nel centro storico di Lecce",
+  "diocesi": "Diocesi di Lecce",
+  "indirizzo": {
+    "via": "Via Templari 12",
+    "citta": "Lecce",
+    "provincia": "LE",
+    "cap": "73100",
+    "regione": "Puglia",
+    "paese": "Italia",
+    "lat": 40.3519,
+    "lng": 18.1718
+  },
+  "contatti": {
+    "telefono": "+39 0832 555 100",
+    "email": "info@parrocchiasantantonio-lecce.it",
+    "social": {
+      "facebook": "https://facebook.com/parrocchiasantantonio_lecce_demo"
+    }
+  },
+  "segreteria": {
+    "lunedi": "Chiusa",
+    "martedi": "09:00 – 12:00",
+    "mercoledi": "09:00 – 12:00",
+    "giovedi": "09:00 – 12:00",
+    "venerdi": "09:00 – 12:00 / 16:00 – 18:00",
+    "sabato": "09:00 – 12:00",
+    "domenica": "Dopo la messa delle 10:30"
+  },
+  "metaSeo": {
+    "title": "Parrocchia Sant'Antonio — Lecce centro storico",
+    "description": "Comunità cristiana nel cuore di Lecce. Orari messe, sacramenti, gruppi parrocchiali. Diocesi di Lecce.",
+    "keywords": ["parrocchia lecce", "sant'antonio lecce", "messe lecce", "sacramenti lecce", "oratorio lecce"]
+  }
+}

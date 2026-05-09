@@ -1,0 +1,44 @@
+{
+  "team": [
+    {
+      "id": 1,
+      "nome": "Don Matteo Rizzo",
+      "ruolo": "Parroco",
+      "bio": "Ordinato sacerdote nel 2001, è parroco di Sant'Antonio dal 2018. Appassionato di teologia biblica e di pastorale familiare, cura con particolare attenzione il cammino delle coppie e delle famiglie.",
+      "specialita": ["Pastorale familiare", "Omelia biblica", "Matrimoni"],
+      "image": "don-matteo"
+    },
+    {
+      "id": 2,
+      "nome": "Don Luca Ferrara",
+      "ruolo": "Vicario parrocchiale — Giovani",
+      "bio": "Vicario dal 2021, si occupa della pastorale giovanile, dell'oratorio e del cammino di cresima. Accompagna il gruppo scout e coordina i giovani nelle attività di servizio alla comunità.",
+      "specialita": ["Pastorale giovanile", "Oratorio", "Cresima"],
+      "image": "don-luca"
+    },
+    {
+      "id": 3,
+      "nome": "Don Salvatore Greco",
+      "ruolo": "Vicario parrocchiale — Catechesi",
+      "bio": "Sacerdote con una lunga esperienza nell'insegnamento e nella formazione dei catechisti. Coordina il cammino di iniziazione cristiana e i corsi di preparazione ai sacramenti.",
+      "specialita": ["Catechesi adulti", "IC bambini", "Formazione catechisti"],
+      "image": "don-salvatore"
+    },
+    {
+      "id": 4,
+      "nome": "Diacono Mario Cafagna",
+      "ruolo": "Diacono permanente — Caritas",
+      "bio": "Diacono permanente dal 2015, è il referente della Caritas parrocchiale. Coordina i volontari e gestisce lo sportello di ascolto per le famiglie in difficoltà. Nella vita civile è assistente sociale.",
+      "specialita": ["Caritas", "Servizio ai poveri", "Diaconia"],
+      "image": "diacono-mario"
+    },
+    {
+      "id": 5,
+      "nome": "Suor Patrizia Mele",
+      "ruolo": "Suora catechista — Formazione",
+      "bio": "Delle Piccole Suore della Sacra Famiglia, è in parrocchia dal 2019. Responsabile del gruppo catechisti e del percorso di Prima Comunione. Ha una laurea in scienze dell'educazione.",
+      "specialita": ["Catechismo bambini", "Formazione", "Prima Comunione"],
+      "image": "suor-patrizia"
+    }
+  ]
+}

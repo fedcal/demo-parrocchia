@@ -1,0 +1,88 @@
+{
+  "sacramenti": [
+    {
+      "id": "battesimo",
+      "nome": "Battesimo",
+      "icona": "✦",
+      "descrizione": "Il Battesimo è il primo sacramento dell'iniziazione cristiana, porta di ingresso nella vita della fede. Attraverso l'acqua e la parola, il bambino o l'adulto viene accolto nella famiglia di Dio e nella comunità ecclesiale.",
+      "destinatari": "Bambini (anche neonati) e adulti non battezzati",
+      "preparazione": [
+        "Incontro con il parroco per presentare la domanda di battesimo",
+        "Corso di preparazione per i genitori e i padrini (3 incontri)",
+        "Scelta di padrino e madrina cattolici praticanti e cresimati",
+        "Consegna dei documenti anagrafici del bambino"
+      ],
+      "documenti": ["Atto di nascita del bambino", "Documenti d'identità dei genitori", "Certificato di battesimo e cresima dei padrini"],
+      "periodicita": "Ogni prima domenica del mese alle 15:30, previo accordo",
+      "contatto": "Segreteria parrocchiale martedì e venerdì mattina"
+    },
+    {
+      "id": "prima-comunione",
+      "nome": "Prima Comunione",
+      "icona": "✦",
+      "descrizione": "L'Eucaristia è il cuore della vita cristiana. Il sacramento della Prima Comunione accompagna i bambini nel loro cammino di fede, aiutandoli a incontrare Gesù nel pane e nel vino consacrati.",
+      "destinatari": "Bambini in 3ª elementare (cammino ordinario) o adulti non ancora comunicati",
+      "preparazione": [
+        "Iscrizione al percorso di catechesi (settembre–ottobre)",
+        "Partecipazione al gruppo catechismo (due anni di cammino)",
+        "Ritiro di preparazione il sabato precedente la cerimonia",
+        "Confessione dei bambini nei giorni precedenti"
+      ],
+      "documenti": ["Certificato di battesimo", "Documento d'identità"],
+      "periodicita": "Maggio (giornata comunitaria) o in accordo con il parroco",
+      "contatto": "Catechiste di riferimento o segreteria parrocchiale"
+    },
+    {
+      "id": "cresima",
+      "nome": "Cresima",
+      "icona": "✦",
+      "descrizione": "La Cresima — o Confermazione — completa il cammino dell'iniziazione cristiana. Con questo sacramento il giovane riceve la pienezza dello Spirito Santo per diventare testimone consapevole del Vangelo.",
+      "destinatari": "Giovani in 2ª media (cammino ordinario) o adulti",
+      "preparazione": [
+        "Percorso biennale di catechesi (I e II anno di cresima)",
+        "Partecipazione attiva alla vita parrocchiale e ai gruppi",
+        "Campo estivo di preparazione (luglio)",
+        "Scelta del cresimatore (testimone adulto cattolico praticante)"
+      ],
+      "documenti": ["Certificato di battesimo e Prima Comunione", "Documento d'identità"],
+      "periodicita": "Primavera, in accordo con il Vescovo diocesano",
+      "contatto": "Don Luca Ferrara — referente giovani"
+    },
+    {
+      "id": "matrimonio",
+      "nome": "Matrimonio",
+      "icona": "✦",
+      "descrizione": "Il matrimonio cristiano è il sacramento con cui un uomo e una donna si donano reciprocamente davanti a Dio e alla comunità. La parrocchia accompagna le coppie in un cammino di preparazione che approfondisce il significato cristiano del loro amore.",
+      "destinatari": "Coppie di fidanzati che desiderano sposarsi in chiesa",
+      "preparazione": [
+        "Contattare la parrocchia almeno 12 mesi prima della data",
+        "Corso di preparazione al matrimonio diocesano (6 incontri)",
+        "Incontri di coppia con il parroco",
+        "Pubblicazioni e documentazione in segreteria almeno 3 mesi prima"
+      ],
+      "documenti": [
+        "Atti di battesimo recenti (entro 6 mesi) di entrambi",
+        "Certificati di cresima e Prima Comunione",
+        "Atto di nascita civile e documento d'identità",
+        "Nulla osta parrocchia di residenza (se diversa)"
+      ],
+      "periodicita": "Su prenotazione. Sabato ore 11:00, raramente in altri giorni.",
+      "contatto": "Don Matteo Rizzo — parroco"
+    },
+    {
+      "id": "confessione",
+      "nome": "Confessione",
+      "icona": "✦",
+      "descrizione": "Il sacramento della Riconciliazione — la Confessione — è il luogo dell'incontro con la misericordia di Dio. La parrocchia offre momenti regolari di confessione e, su appuntamento, incontri più prolungati con i sacerdoti.",
+      "destinatari": "Tutti i fedeli",
+      "preparazione": [
+        "Non è richiesta preparazione formale per i fedeli abituali",
+        "Per la prima confessione dei bambini: percorso catechistico specifico",
+        "Per chi si è allontanato dalla fede: colloquio previo con il sacerdote"
+      ],
+      "documenti": [],
+      "periodicita": "Lunedì–Sabato 30 minuti prima di ogni messa. Sabato ore 17:00–18:00 (confessioni prolungate). Su appuntamento contattando la segreteria.",
+      "contatto": "Segreteria parrocchiale o direttamente con i sacerdoti"
+    }
+  ]
+}

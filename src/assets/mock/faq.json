@@ -1,0 +1,36 @@
+{
+  "faq": [
+    {
+      "domanda": "Come si richiede un sacramento (battesimo, matrimonio, cresima)?",
+      "risposta": "Per tutti i sacramenti è necessario contattare la segreteria parrocchiale negli orari di apertura (martedì–venerdì mattina, venerdì pomeriggio). Il primo passo è sempre un colloquio con il parroco o il vicario di riferimento per conoscersi e pianificare il percorso di preparazione."
+    },
+    {
+      "domanda": "Con quanto anticipo va prenotato il matrimonio in chiesa?",
+      "risposta": "Consigliamo di contattare la parrocchia almeno 12 mesi prima della data desiderata, soprattutto per i sabati primaverili molto richiesti. Il percorso di preparazione dura circa 6 mesi e comprende il corso diocesano per fidanzati e incontri con il sacerdote."
+    },
+    {
+      "domanda": "Gli orari delle messe cambiano in estate o nei periodi liturgici?",
+      "risposta": "Sì. Durante l'estate (luglio e agosto) alcuni orari feriali possono variare. In Avvento e Quaresima si aggiungono celebrazioni specifiche (Via Crucis, Adorazioni, Corsi di esercizi). Consultate sempre il bollettino domenicale o la bacheca all'ingresso della chiesa."
+    },
+    {
+      "domanda": "Come posso diventare volontario Caritas?",
+      "risposta": "Potete contattare il Diacono Mario Cafagna tramite la segreteria parrocchiale oppure partecipare alla riunione mensile dei volontari Caritas (primo lunedì del mese alle 19:30). Non è richiesta esperienza specifica: offriamo una piccola formazione iniziale e affianchiamo i nuovi volontari a quelli esperti."
+    },
+    {
+      "domanda": "Come si fanno le donazioni alla parrocchia?",
+      "risposta": "Le offerte possono essere fatte durante le celebrazioni, depositate nella cassetta delle offerte in chiesa, oppure tramite bonifico bancario (coordinate disponibili in segreteria). La parrocchia è soggetta a rendiconto diocesano annuale e pubblica il bilancio in trasparenza sul bollettino."
+    },
+    {
+      "domanda": "Mio figlio può iscriversi all'oratorio a metà anno?",
+      "risposta": "Sì, l'oratorio accoglie ragazzi in qualsiasi momento dell'anno. È sufficiente presentarsi con un genitore durante gli orari di apertura e compilare un breve modulo di iscrizione. Il doposcuola gratuito è disponibile dal lunedì al venerdì dalle 15:00."
+    },
+    {
+      "domanda": "La chiesa è disponibile per concerti o eventi culturali?",
+      "risposta": "La chiesa può essere messa a disposizione per eventi spirituali, concerti sacri e manifestazioni culturali coerenti con la sua destinazione. La richiesta va inoltrata per iscritto alla segreteria con almeno 60 giorni di anticipo, specificando il tipo di evento e il numero di partecipanti previsto."
+    },
+    {
+      "domanda": "Come si ottiene un certificato di battesimo o matrimonio?",
+      "risposta": "I certificati di battesimo, matrimonio e altri sacramenti celebrati in questa parrocchia vengono rilasciati dalla segreteria previo appuntamento. Portare documento d'identità. Per sacramenti celebrati altrove è necessario richiedere il certificato alla parrocchia dove è avvenuta la celebrazione."
+    }
+  ]
+}

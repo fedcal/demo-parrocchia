@@ -1,0 +1,100 @@
+{
+  "gruppi": [
+    {
+      "id": "oratorio",
+      "nome": "Oratorio Don Bosco",
+      "categoria": "Giovani",
+      "icona": "🏃",
+      "descrizione": "L'oratorio è il cuore pulsante della vita giovanile parrocchiale. Uno spazio di accoglienza, gioco, formazione e amicizia per bambini, ragazzi e giovani.",
+      "attivita": ["Doposcuola gratuito (lunedì–venerdì)", "Tornei sportivi (calcetto, pallavolo)", "Gite ed escursioni estive", "Campo estivo luglio–agosto"],
+      "destinatari": "Bambini e ragazzi 6–18 anni",
+      "incontri": "Dal lunedì al venerdì 15:00–19:00 / Sabato 10:00–13:00",
+      "referente": "Don Luca Ferrara",
+      "contatto": "oratorio@parrocchiasantantonio-lecce.it"
+    },
+    {
+      "id": "scout",
+      "nome": "Gruppo Scout AGESCI Lecce 3",
+      "categoria": "Giovani",
+      "icona": "⛺",
+      "descrizione": "Il gruppo scout propone un cammino educativo basato sul metodo Baden-Powell: vita all'aperto, servizio al prossimo, crescita nella fede e nella responsabilità.",
+      "attivita": ["Riunioni di unità settimanali (branchi, reparti, clan)", "Uscite mensili in natura", "Campo estivo di reparto e clan", "Servizi alla comunità"],
+      "destinatari": "Bambini 8 anni in su, ragazzi e giovani adulti",
+      "incontri": "Sabato pomeriggio 15:30–18:30 (per unità). Domenica in occasione di uscite.",
+      "referente": "Capo Gruppo: Francesca Marra",
+      "contatto": "scout.lecce3@agesci.it"
+    },
+    {
+      "id": "caritas",
+      "nome": "Caritas Parrocchiale",
+      "categoria": "Servizio",
+      "icona": "❤",
+      "descrizione": "La Caritas parrocchiale coordina il servizio ai più fragili: raccolta alimentare, ascolto delle famiglie in difficoltà, accompagnamento agli anziani soli e sostegno ai migranti.",
+      "attivita": ["Sportello Caritas (martedì e giovedì mattina)", "Raccolta alimentare mensile", "Visita agli anziani soli", "Sostegno scolastico ai minori stranieri"],
+      "destinatari": "Volontari adulti di ogni età",
+      "incontri": "Riunione mensile il primo lunedì alle 19:30. Attività quotidiane distribuite tra i volontari.",
+      "referente": "Diacono Mario Cafagna",
+      "contatto": "caritas@parrocchiasantantonio-lecce.it"
+    },
+    {
+      "id": "coro",
+      "nome": "Coro Liturgico Sant'Antonio",
+      "categoria": "Liturgia",
+      "icona": "🎵",
+      "descrizione": "Il coro anima le celebrazioni domenicali e le feste solenni con canti di tradizione gregoriana, canti contemporanei e repertorio liturgico italiano.",
+      "attivita": ["Animazione messa delle 10:30 (domenica)", "Concerti spirituali (Avvento, Natale, Pasqua)", "Canto per matrimoni e battesimi su richiesta"],
+      "destinatari": "Adulti e giovani adulti con buona voce e disponibilità",
+      "incontri": "Mercoledì ore 20:30 – 22:00. Prove straordinarie prima delle feste solenni.",
+      "referente": "Maestro del coro: Silvana De Giorgi",
+      "contatto": "coro@parrocchiasantantonio-lecce.it"
+    },
+    {
+      "id": "catechesi",
+      "nome": "Catechisti Parrocchiali",
+      "categoria": "Formazione",
+      "icona": "📖",
+      "descrizione": "Il gruppo dei catechisti accompagna bambini e ragazzi nel percorso di iniziazione cristiana, dalla Prima Comunione alla Cresima, con metodo partecipativo e attento alle diverse fasce d'età.",
+      "attivita": ["Catechismo bambini (Prima Comunione: martedì e giovedì 16:30)", "Catechismo ragazzi (Cresima I e II anno: mercoledì 16:30)", "Formazione continua per i catechisti", "Ritiri spirituali durante l'anno"],
+      "destinatari": "Catechisti adulti e famiglie con figli in percorso di IC",
+      "incontri": "Riunione catechisti: lunedì ore 19:30 (quindicinale)",
+      "referente": "Suor Patrizia Mele",
+      "contatto": "catechesi@parrocchiasantantonio-lecce.it"
+    },
+    {
+      "id": "azione-cattolica",
+      "nome": "Azione Cattolica",
+      "categoria": "Formazione",
+      "icona": "✝",
+      "descrizione": "L'Azione Cattolica propone un cammino di formazione cristiana per adulti, giovani e ragazzi, con attenzione all'impegno civile, alla famiglia e alla spiritualità laicale.",
+      "attivita": ["Gruppo adulti (formazione e dibattito mensile)", "ACR per ragazzi 6–14 anni", "Iniziative diocesane (convegni, assemblee)", "Rivista diocesana e materiali formativi"],
+      "destinatari": "Fedeli laici di tutte le età",
+      "incontri": "Gruppo adulti: giovedì ore 20:00. ACR: sabato ore 15:00.",
+      "referente": "Presidente: Roberto Greco",
+      "contatto": "ac@parrocchiasantantonio-lecce.it"
+    },
+    {
+      "id": "anziani",
+      "nome": "Gruppo Terza Età",
+      "categoria": "Comunita",
+      "icona": "🌿",
+      "descrizione": "Un luogo di incontro, preghiera e fraternità per le persone anziane della parrocchia. Proposte spirituali, gite culturali e momenti di condivisione per non sentirsi mai soli.",
+      "attivita": ["Santo Rosario del pomeriggio (lunedì–venerdì ore 17:30)", "Pomeriggi di convivialità (ogni due settimane)", "Gite parrocchiali primaverili e autunnali", "Visita ai confratelli malati o impossibilitati"],
+      "destinatari": "Fedeli anziani e pensionati",
+      "incontri": "Ritrovo in sagrestia ogni lunedì alle 16:00",
+      "referente": "Giuseppina Tamborrino",
+      "contatto": "Segreteria parrocchiale"
+    },
+    {
+      "id": "famiglie",
+      "nome": "Gruppo Famiglie",
+      "categoria": "Famiglie",
+      "icona": "🏠",
+      "descrizione": "Il gruppo famiglie è uno spazio di incontro, confronto e crescita spirituale per le coppie e i nuclei familiari della parrocchia. Partendo dalla fede, si riflette insieme sulle sfide della vita familiare quotidiana.",
+      "attivita": ["Incontri mensili di formazione e condivisione", "Ritiro spirituale per coppie (weekend autunnale)", "Celebrazione della Festa della Famiglia (maggio)", "Collaborazione con i percorsi di preparazione al matrimonio"],
+      "destinatari": "Coppie sposate e famiglie con figli",
+      "incontri": "Primo e terzo sabato del mese, ore 20:30",
+      "referente": "Don Matteo Rizzo (accompagnatore spirituale) + coppia referente",
+      "contatto": "famiglie@parrocchiasantantonio-lecce.it"
+    }
+  ]
+}

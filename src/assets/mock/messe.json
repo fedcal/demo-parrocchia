@@ -1,0 +1,67 @@
+{
+  "orari": [
+    {
+      "giorno": "Lunedi",
+      "giornoCodice": "lunedi",
+      "messe": [
+        { "ora": "07:30", "luogo": "Chiesa principale", "note": "Messa feriale" },
+        { "ora": "18:00", "luogo": "Chiesa principale", "note": "Messa serale" }
+      ]
+    },
+    {
+      "giorno": "Martedi",
+      "giornoCodice": "martedi",
+      "messe": [
+        { "ora": "07:30", "luogo": "Chiesa principale", "note": "Messa feriale" },
+        { "ora": "18:00", "luogo": "Chiesa principale", "note": "Messa serale" }
+      ]
+    },
+    {
+      "giorno": "Mercoledi",
+      "giornoCodice": "mercoledi",
+      "messe": [
+        { "ora": "07:30", "luogo": "Chiesa principale", "note": "Messa feriale" },
+        { "ora": "16:30", "luogo": "Cappella del Santissimo", "note": "Adorazione eucaristica" },
+        { "ora": "18:00", "luogo": "Chiesa principale", "note": "Messa serale con benedizione" }
+      ]
+    },
+    {
+      "giorno": "Giovedi",
+      "giornoCodice": "giovedi",
+      "messe": [
+        { "ora": "07:30", "luogo": "Chiesa principale", "note": "Messa feriale" },
+        { "ora": "18:00", "luogo": "Chiesa principale", "note": "Messa serale" }
+      ]
+    },
+    {
+      "giorno": "Venerdi",
+      "giornoCodice": "venerdi",
+      "messe": [
+        { "ora": "07:30", "luogo": "Chiesa principale", "note": "Messa feriale" },
+        { "ora": "15:00", "luogo": "Chiesa principale", "note": "Via Crucis (solo periodo Quaresima)" },
+        { "ora": "18:00", "luogo": "Chiesa principale", "note": "Messa serale" }
+      ]
+    },
+    {
+      "giorno": "Sabato",
+      "giornoCodice": "sabato",
+      "messe": [
+        { "ora": "07:30", "luogo": "Chiesa principale", "note": "Messa feriale" },
+        { "ora": "11:00", "luogo": "Chiesa principale", "note": "Messa nuziale (su prenotazione)" },
+        { "ora": "18:30", "luogo": "Chiesa principale", "note": "Vigilia domenicale" }
+      ]
+    },
+    {
+      "giorno": "Domenica",
+      "giornoCodice": "domenica",
+      "messe": [
+        { "ora": "08:00", "luogo": "Chiesa principale", "note": "Prima messa domenicale" },
+        { "ora": "10:30", "luogo": "Chiesa principale", "note": "Messa solenne con coro" },
+        { "ora": "12:00", "luogo": "Chiesa principale", "note": "Messa per le famiglie" },
+        { "ora": "18:30", "luogo": "Chiesa principale", "note": "Messa serale" },
+        { "ora": "20:00", "luogo": "Cappella del Santissimo", "note": "Messa giovani (primo e terzo domenica)" }
+      ]
+    }
+  ],
+  "noteLiturgia": "Gli orari possono variare in occasione di feste solenni, Tridui e periodi liturgici particolari. Consultare il bollettino parrocchiale domenicale per aggiornamenti."
+}
