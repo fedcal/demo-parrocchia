@@ -3,14 +3,14 @@
 Template **Angular 21 SSR** open-source per sito vetrina **Parrocchia** (PMI italiane).
 
 [![Demo live](https://img.shields.io/badge/demo-live-brightgreen)](https://parrocchia.demo.federicocalo.dev)
-[![Docs](https://img.shields.io/badge/docs-VitePress-blue)](https://fedcal.github.io/federico-demo-parrocchia/)
+[![Docs](https://img.shields.io/badge/docs-VitePress-blue)](https://fedcal.github.io/demo-parrocchia/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## Quick start
 
 ```bash
-git clone https://github.com/fedcal/federico-demo-parrocchia.git
-cd federico-demo-parrocchia
+git clone https://github.com/fedcal/demo-parrocchia.git
+cd demo-parrocchia
 npm install
 npm start
 ```
@@ -36,7 +36,7 @@ npm run serve:ssr:parrocchia
 
 ## Documentazione completa
 
-→ https://fedcal.github.io/federico-demo-parrocchia/
+→ https://fedcal.github.io/demo-parrocchia/
 
 ## Hub demos Federico
 
